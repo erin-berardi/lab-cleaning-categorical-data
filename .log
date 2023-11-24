@@ -1,0 +1,6 @@
+2023-11-04 15:50:22,289 [27324] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-11-04 15:50:42,388 [27324] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-11-04 15:51:10,554 [27324] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-11-04 15:51:33,392 [14844] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-11-04 16:25:44,169 [14844] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\Quaresma\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-11-04 16:25:44,513 [14844] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\Quaresma\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
